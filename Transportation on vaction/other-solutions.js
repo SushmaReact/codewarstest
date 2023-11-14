@@ -1,3 +1,4 @@
+// Different Solutions Added to Transportation on vaction
 //car cost 40$ per day 
 //if you rent for 7 days you get 50$ off
 //if you rent for 3 days you get 20$ off
